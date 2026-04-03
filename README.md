@@ -25,6 +25,8 @@ A GitHub Actions workflow that runs every morning at 08:00 CST. It aggregates AI
 
 Browse all historical digests in a clean, dark-themed interface — no login required. Reports are rendered from the Markdown files in this repo via GitHub Pages.
 
+![Web UI](assets/web.png)
+
 ## Telegram Channel & Feishu Group
 
 Subscribe to get daily digest notifications pushed directly to your preferred platform. Each message links to all reports for that day (ZH and EN variants) plus the Web UI and RSS feed.
